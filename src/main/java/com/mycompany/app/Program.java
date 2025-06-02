@@ -25,7 +25,6 @@ class Player {
     public boolean selected;
     public boolean win;
 }
-
 class Game {
     public State state;
     public Player player1, player2;
